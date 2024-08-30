@@ -4,16 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e7728b9-f95c-455d-a485-0bb2eb51cae2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="9e7728b9-f95c-455d-a485-0bb2eb51cae2" name="Changes" comment="add Ten.java into F package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/One/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/One/One.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Nuongdang &lt;dangthinuong1804@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,6 +43,42 @@
       <option name="presentableId" value="Default" />
       <updated>1724922475842</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Eight.java into F package">
+      <created>1724990609693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724990609693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Nine.java into F package">
+      <created>1724991461984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724991461984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Ten.java into F package">
+      <created>1724991686590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724991686590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Ten.java into F package">
+      <created>1724991883347</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724991883347</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Eight.java into F package" />
+    <MESSAGE value="add Nine.java into F package" />
+    <MESSAGE value="add Ten.java into main package" />
+    <MESSAGE value="add Ten.java into F package" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Ten.java into F package" />
   </component>
 </project>
